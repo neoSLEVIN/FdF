@@ -68,4 +68,4 @@ git: fclean
 	git status
 	git commit -m "$(COMMIT)"
 	git status
-#	git push
+	git push
