@@ -10,9 +10,9 @@ For more information about project read **fdf.en.pdf**.
 To run this project you will need a **minilibx**.
 
 ### Sources for minilibx installation
-#### for *Linux*
+#### For *Linux*
 [Here](https://github.com/BinaryBenji/Minilibx_Installer) or [here](https://github.com/ttshivhula/minilibx).
-#### for *Macos*
+#### For *Macos*
 Try [this](https://github.com/pbondoer/MinilibX) or [this](https://github.com/dannywillems/minilibx-mac-osx).
 
 ## Compilation
