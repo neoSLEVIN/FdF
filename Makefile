@@ -36,7 +36,7 @@ LIBFTINIT = -I $(LIBFTDIR) -L $(LIBFTDIR) -lft
 MLXINIT = -I /usr/local/include -L /usr/local/lib -lmlx
 MACOS = -framework OpenGL -framework AppKit
 LINUX = -lXext -lX11 -lm
-COMMIT =
+COMMIT = fast commit
 
 all: $(BINDIR)$(NAME)
 
