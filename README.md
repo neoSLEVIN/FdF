@@ -1,7 +1,7 @@
 # FdF
 # The first graphic project of the School 21
 
-[bg.fdf](./screenshots/bg.png)
+![bg.fdf](./screenshots/bg.png)
 
 For more information about project read **fdf.en.pdf**.
 
